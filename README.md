@@ -1,2 +1,31 @@
 # TigerAPI
 RestAPI for TigerHacks 2018 
+
+Table for participants:
+|Table|Type|
+|---|---|
+|First name|varchar(31)|
+|Last name|varchar(31)|
+|School|varchar(31)|
+|Grade/level|varchar(15)|
+|E-mail|varchar(31)|
+|Phone number|int|
+|Current location|varchar(63)|
+|Working place|varchar(255)|
+|Title|varchar(255)|
+|Skills having|varchar(255)|
+|Food allergies|varchar(255)|
+|Socialmedia|varchar(255)|
+|Gender|char|
+
+Table for partcipants' interests:
+|Table|Type|
+|---|---|
+|Coding|bool|
+|Website Development/Design|bool|
+|Mobile Application Development/Design|bool|
+|Political Science|bool|
+|Government/U.S. History|bool|
+|Public Policy|bool|
+|Social Impact|bool|
+|Marketing/Advertising|bool|
