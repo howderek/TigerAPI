@@ -2,9 +2,10 @@
 RestAPI for TigerHacks 2018 
 
 Table for applications:
+
 |Table|Type|
 |---|---|
-|Participant table ID| integer|
+|Participant table ID|integer|
 |Participant interest table ID|integer|
 |Approved|bool|
 
@@ -28,6 +29,7 @@ Table for participants:
 |Gender|char|
 
 Table for partcipants' interests:
+
 |Table|Type|
 |---|---|
 |id|integer|
