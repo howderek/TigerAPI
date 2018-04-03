@@ -11,7 +11,7 @@ Table for applications:
 |Need a reinbursement|bool|
 |Reinbursement request form|varchar(255)|
 |RSVP sent|bool|
-|RSVP result:attenging|bool|
+|RSVP result:attending|bool|
 |Checked in|bool|
 
 Table for participants:
