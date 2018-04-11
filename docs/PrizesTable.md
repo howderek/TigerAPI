@@ -1,15 +1,4 @@
-# TigerAPI
-RestAPI for TigerHacks 2018 
-
-## Group Members
-
-* Melissa Hollingshed (Product Owner)
-* Roger Kiew
-* Morgan Knoch
-* Christopher Wong (Scrum Master)
-* Qiwen Guo
-* Riley Evans
-
+# Table for Prizes:
 
 |Table|Type|
 |---|---|
@@ -26,4 +15,3 @@ Table for sponsors:
 |---|---|
 |id|integer|
 |Sponsor Name|varchar(255)|
-
