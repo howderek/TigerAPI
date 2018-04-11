@@ -9,3 +9,5 @@ RestAPI for TigerHacks 2018
 * Christopher Wong (Scrum Master)
 * Qiwen Guo
 * Riley Evans
+* Christian Cmehil-Warn
+* Dalton Burge
